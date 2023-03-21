@@ -1,0 +1,1 @@
+execute_script C:\Users\User\Desktop\Лабораторные работы\Программирование\ballab5\test\script2.txt
