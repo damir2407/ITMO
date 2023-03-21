@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+      xmlns:f="http://xmlns.jcp.org/jsf/core">
+<f:view>
+    <h:head>
+        <link rel="shortcut icon" type="image/x-icon" href="resources/pictures/icon.ico"/>
+        <title>Стартовая страница</title>
+        <h:outputScript library="js" name="clock.js"/>
+        <h:outputStylesheet library="css" name="styles.css"/>
+        <h:outputStylesheet library="css" name="clock.css"/>
+
+    </h:head>
+
+    <h:body>
+        <table style="margin-top: -30px">
+            <!-- Шапка -->
+            <tr>
+                <td class="header_part" colspan="3">
+                    <h1 class="left_side">Автор: Балтабаев Дамир</h1>
+                    <h1 class="center_side">Группа: P3210</h1>
+                    <h1 class="right_side">Вариант: 10376</h1>
+                </td>
+            </tr>
+
+            <tr>
+                <td style="width: 50%; vertical-align: top;background: #CD853F">
+                    <h:panelGroup layout="block"/>
+                    <div id="clock" style="margin-top: 50px">
+                    </div>
+                    <div id="date">
+                    </div>
+                    <h:button outcome="main" value="На главную страницу" style="display: block;  margin-left: auto;margin-right: auto; height: 100px;
+                    width: 50%; margin-top: 35px "/>
+                </td>
+                <td style="width: 50%">
+                    <img style="width: 50%; display: block;  margin-left: auto;margin-right: auto;"
+                         src="resources/pictures/funny_clock.gif" alt="Часики"/>
+                </td>
+
+            </tr>
+
+        </table>
+    </h:body>
+</f:view>
+</html>

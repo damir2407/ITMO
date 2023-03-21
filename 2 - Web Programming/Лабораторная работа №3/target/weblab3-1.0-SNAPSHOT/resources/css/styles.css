@@ -1,0 +1,186 @@
+body {
+    font-size: 18.5px;
+    font-family: sans-serif;
+    background-color: #e9e6ee;
+}
+
+/* Селекторы классов */
+.header_part {
+    width: 100%;
+    color: #F5F5DC;
+    background-color: #CD853F;
+    height: 30px;
+}
+
+.picture_word,
+.table_word,
+.value_word {
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+    width: 100%;
+    height: 54px;
+    text-align: center;
+    background-color: #CD853F;
+    font-size: 18.5px;
+    font-weight: normal;
+}
+
+.picture {
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+
+
+.coords-col {
+    width: 13%;
+}
+
+
+.value_label {
+    width: auto;
+    padding: 25px 15px;
+    text-align: left;
+}
+
+.center-labeled {
+    position: relative;
+    font-size: 14px;
+    margin-left: 20px;
+}
+
+.center-labeled label {
+    position: absolute;
+    top: 13px;
+    left: 5px;
+}
+
+#id_y{
+
+}
+.button {
+    height: 27px;
+    width: 50%;
+    color: #ffffff;
+    background-color: #CD853F;
+    margin: 0px 100px;
+    float: right;
+}
+
+
+.inputTextError,
+.xCommandLinkError,
+.rCommandLinkError {
+    caret-color: transparent;
+    padding: 10px;
+    color: red;
+    font-size: 12px;
+}
+
+
+/* Селекторы псевдоклассов */
+.button:hover {
+    background-color: #FF7F50;
+}
+
+
+#result-table tr:nth-child(2n):hover {
+    background-color: #e9e9e9;
+}
+
+#result-table tr:nth-child(2n-1):hover {
+    background-color: #e9e9e9;
+}
+
+
+/* Селекторы дочерних элементов */
+
+span > h1 {
+    background-color: #CD853F !important;
+}
+
+span > h1 {
+    font-size: 18.5px;
+    font-weight: normal;
+    color: #F5F5DC;
+    background-color: red;
+}
+
+
+body > table {
+    width: 100%;
+    border-spacing: 30px;
+}
+
+
+/* Селекторы атрибутов */
+td[subject_part] {
+    background-color: #ffffff;
+}
+
+td[subject_part="picture_part"] {
+    width: 50%;
+    vertical-align: top;
+}
+
+td[subject_part="table_part"] {
+    width: 65%;
+    vertical-align: top;
+}
+
+
+h1 {
+    background-color: #CD853F;
+    font-size: 18.5px;
+    font-weight: normal;
+}
+
+.left_side{
+    float: left;
+    width: 33.33333%;
+    text-align: left;
+}
+.center_side{
+    float: left;
+    width: 33.33333%;
+    text-align: center;
+}
+.right_side{
+    float: right;
+    width: 33.33333%;
+    text-align: right;
+}
+
+
+
+#result-table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    background-color: #F5DEB3;
+    overflow-x: auto;
+    overflow-y: auto;
+    height: 20%;
+}
+
+#value_part {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+#r_selected {
+    width: 23%;
+}
+
+
+#main_canvas {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+.picture-svg {
+}

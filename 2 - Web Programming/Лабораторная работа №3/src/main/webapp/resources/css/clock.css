@@ -1,0 +1,8 @@
+#clock, #date {
+    color: #F5F5DC;
+    font-family: "Segoe UI", sans-serif;
+    width: 100%;
+    height: 75px;
+    font-size: 5vh;
+    text-align: center;
+}

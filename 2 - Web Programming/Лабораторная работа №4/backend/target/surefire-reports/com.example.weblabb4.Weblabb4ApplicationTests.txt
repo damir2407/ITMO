@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.weblabb4.Weblabb4ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.272 s - in com.example.weblabb4.Weblabb4ApplicationTests

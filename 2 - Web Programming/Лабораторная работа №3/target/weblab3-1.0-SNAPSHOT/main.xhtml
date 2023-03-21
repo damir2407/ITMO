@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+      xmlns:a="http://xmlns.jcp.org/jsf/passthrough"
+              xmlns:f="http://xmlns.jcp.org/jsf/core"
+      xmlns:p="http://primefaces.org/ui">
+<f:view>
+    <h:head>
+        <link rel="shortcut icon" type="image/x-icon" href="resources/pictures/icon.ico"/>
+        <title>Главная страница</title>
+        <h:outputScript library="primefaces" name="jquery/jquery.js"/>
+        <h:outputScript library="js" name="script.js"/>
+        <h:outputStylesheet library="css" name="styles.css"/>
+    </h:head>
+
+    <h:body>
+        <table style="margin-top: -30px">
+            <!-- Шапка -->
+            <tr>
+                <td class="header_part" colspan="3">
+                    <h1 class="left_side">Автор: Балтабаев Дамир</h1>
+                    <h1 class="center_side">Группа: P3210</h1>
+                    <h1 class="right_side">Вариант: 10376</h1>
+                </td>
+            </tr>
+
+            <tr>
+                <!-- Рисунок -->
+
+                <td subject_part="picture_part">
+                    <span class="picture_word">
+                    <h1>Рисунок</h1>
+                    </span>
+                    <div class="picture">
+                        <object class="picture-svg" type="image/svg+xml" data="resources/pictures/picture-svg.svg">
+                            <img src="resources/pictures/picture-svg.svg" width="220" height="220" alt="svgpic"/>
+                        </object>
+                        <canvas id="main_canvas" width="220" height="220"></canvas>
+                    </div>
+                </td>
+
+                <!--Значения-->
+                <td subject_part="table_part">
+        <span class="value_word">
+          <h1>Значения</h1>
+        </span>
+
+                    <h:form id="formId">
+                        <table id="value_part">
+
+                            <!-- X -->
+                            <tr>
+                                <td class="value_label">
+                                    <label>X:</label>
+                                </td>
+
+                                <td>
+                <span class="center-labeled">
+                  <p:commandLink type="button" style="font-size: 25px; text-decoration: none" class="x-commandLink"
+                                 name="id_x"
+                                 value="-4" actionListener="#{serverBean.changeX(-4)}"/>
+                </span>
+                                    <span class="center-labeled">
+                  <p:commandLink style="font-size: 25px ; text-decoration: none" class="x-commandLink" name="id_x"
+                                 value="-3" actionListener="#{serverBean.changeX(-3)}"/>
+                </span>
+                                    <span class="center-labeled">
+                  <p:commandLink style="font-size: 25px; text-decoration: none" class="x-commandLink" name="id_x"
+                                 value="-2" actionListener="#{serverBean.changeX(-2)}"/>
+                </span>
+                                    <span class="center-labeled">
+                                        <p:commandLink style="font-size: 25px; text-decoration: none"
+                                                       class="x-commandLink" name="id_x" value="-1"
+                                                       actionListener="#{serverBean.changeX(-1)}"/>
+                </span>
+                                    <span class="center-labeled">
+                                        <p:commandLink style="font-size: 25px; text-decoration: none"
+                                                       class="x-commandLink" name="id_x" value="0"
+                                                       actionListener="#{serverBean.changeX(0)}"/>
+
+                </span>
+                                    <span class="center-labeled">
+                                    <p:commandLink style="font-size: 25px; text-decoration: none" class="x-commandLink"
+                                                   name="id_x" value="1"
+                                                   actionListener="#{serverBean.changeX(1)}"/>
+                </span>
+                                    <span class="center-labeled">
+                                  <p:commandLink style="font-size: 25px; text-decoration: none" class="x-commandLink"
+                                                 name="id_x" value="2"
+                                                 actionListener="#{serverBean.changeX(2)}"/>
+
+                </span>
+                                    <span class="center-labeled">
+                                                          <p:commandLink style="font-size: 25px; text-decoration: none"
+                                                                         class="x-commandLink" name="id_x" value="3"
+                                                                         actionListener="#{serverBean.changeX(3)}"/>
+
+                </span>
+                                    <span class="center-labeled">
+                                    <p:commandLink style="font-size: 25px; text-decoration: none" class="x-commandLink"
+                                                   name="id_x" value="4" actionListener="#{serverBean.changeX(4)}"/>
+                </span>
+                                    <div class="xCommandLinkError"></div>
+                                </td>
+                            </tr>
+
+                            <!-- Y -->
+                            <tr>
+                                <td class="value_label">
+                                    <label>Y:</label>
+                                </td>
+                                <td>
+                                    <p:inputText id="id_y" maxlength="10" autocomplete="off"
+                                                 a:placeholder="Числа (-3;3)" value="${serverBean.strY}"/>
+                                    <div class="inputTextError"></div>
+                                </td>
+                            </tr>
+
+
+                            <!-- R -->
+                            <tr>
+                                <td class="value_label">
+                                    <label>R:</label>
+                                </td>
+
+                                <td>
+                <span class="center-labeled">
+                  <p:commandLink style="font-size: 25px; text-decoration: none" class="r-commandLink" name="id_r" id="r_id1"
+                                 value="1" actionListener="#{serverBean.changeR(1)}" onclick="displayRSvg(1)"/>
+                </span>
+                                    <span class="center-labeled">
+                  <p:commandLink style="font-size: 25px; text-decoration: none" class="r-commandLink" name="id_r"
+                                 value="2" actionListener="#{serverBean.changeR(2)}" onclick="displayRSvg(2)"/>
+                </span>
+                                    <span class="center-labeled">
+                  <p:commandLink style="font-size: 25px; text-decoration: none" class="r-commandLink" name="id_r"
+                                 value="3" actionListener="#{serverBean.changeR(3)}" onclick="displayRSvg(3)"/>
+                </span>
+                                    <span class="center-labeled">
+                                        <p:commandLink style="font-size: 25px; text-decoration: none"
+                                                       class="r-commandLink" name="id_r" value="4"
+                                                       actionListener="#{serverBean.changeR(4)}"
+                                                       onclick="displayRSvg(4)"/>
+                </span>
+                                    <span class="center-labeled">
+                                        <p:commandLink style="font-size: 25px; text-decoration: none"
+                                                       class="r-commandLink" name="id_r" value="5"
+                                                       actionListener="#{serverBean.changeR(5)}"
+                                                       onclick="displayRSvg(5)"/>
+
+                </span>
+                                    <div class="rCommandLinkError"></div>
+                                </td>
+                            </tr>
+
+
+                            <!-- Кнопка submit -->
+                            <tr>
+                                <td colspan="2">
+                <span class="buttons">
+                  <h:commandButton style="width: 100%; height: 50px" id="submit_button" class="sub-button" type="submit"
+                                   value="Разместить"
+                                   action="#{serverBean.submitFunction}">
+                      <f:ajax execute="formId" render="main_table"/>
+                  </h:commandButton>
+                </span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2">
+                <span class="buttons">
+                  <h:commandButton style="width: 100%; height: 50px" id="reset_button" class="res-button" type="submit"
+                                   value="Очистить"
+                                   action="#{serverBean.resetFunction}">
+                          <f:ajax execute="formId" render="main_table"/>
+                  </h:commandButton>
+                </span>
+                                </td>
+
+                            </tr>
+
+                            <tr>
+                                <td colspan="2">
+                <span class="buttons">
+                   <h:button outcome="start" value="На стартовую страницу" style="width: 100%; height: 50px"/>
+                </span>
+                                </td>
+
+                            </tr>
+
+
+                        </table>
+                    </h:form>
+                    <h:form id="hiddenForm" style="display: none">
+                        <h:inputText styleClass="hidden_x" value="#{serverBean.result.x}"/>
+                        <h:inputText styleClass="hidden_y" value="#{serverBean.result.y}"/>
+                        <h:inputHidden type="hidden" id="fromCanvas"/>
+                        <h:commandButton styleClass="submit_canvas" action="#{serverBean.submitCanvasFunction}">
+                            <f:ajax execute="hiddenForm" render="main_table"/>
+                        </h:commandButton>
+                    </h:form>
+                </td>
+            </tr>
+
+            <tr>
+                <!-- Таблица -->
+                <td subject_part="table_part">
+        <span class="table_word">
+          <h1>Таблица</h1>
+        </span>
+                    <div class="results_table" style="overflow: auto; height: 200px">
+                        <h:panelGroup id="main_table">
+                            <h:dataTable id="result-table" value="#{serverBean.allResults}"
+                                         var="result" >
+                                <h:column headerClass="coords-col" >
+                                    <f:facet name="header" >X</f:facet>
+                                    <h:outputText  value="#{result.x}"/>
+                                </h:column>
+                                <h:column headerClass="coords-col">
+                                    <f:facet name="header">Y</f:facet>
+                                    <h:outputText  value="#{result.y}"/>
+                                </h:column>
+                                <h:column headerClass="coords-col">
+                                    <f:facet name="header">R</f:facet>
+                                    <h:outputText value="#{result.r}"/>
+                                </h:column>
+                                <h:column headerClass="coords-col">
+                                    <f:facet name="header">Текущее время</f:facet>
+                                    <h:outputText value="#{result.currentTime}"/>
+                                </h:column>
+                                <h:column headerClass="coords-col">
+                                    <f:facet name="header">Время исполнения скрипта</f:facet>
+                                    <h:outputText value="#{result.executeTime}"/>
+                                </h:column>
+                                <h:column headerClass="coords-col">
+                                    <f:facet name="header">Результат</f:facet>
+                                    <h:outputText value="#{result.hitValue}"/>
+                                </h:column>
+                            </h:dataTable>
+                        </h:panelGroup>
+                    </div>
+                </td>
+
+
+            </tr>
+        </table>
+
+
+    </h:body>
+</f:view>
+</html>

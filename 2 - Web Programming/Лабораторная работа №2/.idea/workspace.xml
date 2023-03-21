@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="webblab2:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6fb199eb-db14-4d0c-8552-e078ebc56842" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/webblab2_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/webblab2_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/webblab2_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/webblab2_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webblab2-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/webblab2-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webblab2-1.0-SNAPSHOT/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/webblab2-1.0-SNAPSHOT/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$бораторная работа №2 Балтабаев Дамир .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Лабораторная работа №2 Балтабаев Дамир .docx" beforeDir="false" afterPath="$PROJECT_DIR$/Лабораторная работа №2 Балтабаев Дамир .docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="JPA Structure" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="JPA Structure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="20CHq3RxNt345NEBz5AlIA4z0VI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15625" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="JBoss/WildFly 25.0.1.Final" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss/WildFly 25.0.1.Final" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="1.8" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="webblab2:war">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="SERVER" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" />
+        <option name="USERNAME" value="" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="JBoss" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50658" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="webblab2:war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fb199eb-db14-4d0c-8552-e078ebc56842" name="Changes" comment="" />
+      <created>1635541838580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635541838580</updated>
+      <workItem from="1635541840110" duration="6192000" />
+      <workItem from="1635695007533" duration="6901000" />
+      <workItem from="1635781335330" duration="1611000" />
+      <workItem from="1635792626192" duration="2169000" />
+      <workItem from="1635800502866" duration="2730000" />
+      <workItem from="1635873361214" duration="2748000" />
+      <workItem from="1636044860391" duration="2470000" />
+      <workItem from="1636120611661" duration="1000" />
+      <workItem from="1636126056613" duration="10726000" />
+      <workItem from="1636212190299" duration="39000" />
+      <workItem from="1636215796285" duration="437000" />
+      <workItem from="1636216264303" duration="2006000" />
+      <workItem from="1636218319362" duration="26000" />
+      <workItem from="1636218364237" duration="160000" />
+      <workItem from="1636218543143" duration="192000" />
+      <workItem from="1636218763018" duration="175000" />
+      <workItem from="1636220825189" duration="140000" />
+      <workItem from="1636221071938" duration="851000" />
+      <workItem from="1636222316637" duration="3418000" />
+      <workItem from="1636232725992" duration="2963000" />
+      <workItem from="1636390375720" duration="58000" />
+      <workItem from="1636391045411" duration="5131000" />
+      <workItem from="1636406956561" duration="181000" />
+      <workItem from="1636446612441" duration="235000" />
+      <workItem from="1636446865988" duration="2395000" />
+      <workItem from="1636460603238" duration="17931000" />
+      <workItem from="1636489383412" duration="6916000" />
+      <workItem from="1636548795938" duration="4020000" />
+      <workItem from="1636556812500" duration="7955000" />
+      <workItem from="1636628229263" duration="9633000" />
+      <workItem from="1636819810691" duration="597000" />
+      <workItem from="1637177799165" duration="2580000" />
+      <workItem from="1637237865352" duration="15000" />
+      <workItem from="1637237972860" duration="3005000" />
+      <workItem from="1637267957066" duration="23000" />
+      <workItem from="1637329531892" duration="7944000" />
+      <workItem from="1637354916919" duration="186000" />
+      <workItem from="1637433305630" duration="1238000" />
+      <workItem from="1637444499077" duration="996000" />
+      <workItem from="1637446797267" duration="3000" />
+      <workItem from="1637597532359" duration="286000" />
+      <workItem from="1637598096420" duration="15000" />
+      <workItem from="1637599167985" duration="976000" />
+      <workItem from="1637679357189" duration="500000" />
+      <workItem from="1637693750332" duration="673000" />
+      <workItem from="1637761042046" duration="5845000" />
+      <workItem from="1637777381733" duration="1216000" />
+      <workItem from="1637783597917" duration="84000" />
+      <workItem from="1639945432789" duration="199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
