@@ -1,0 +1,46 @@
+{
+	"name": "LMS helper ♥",
+	"homepage_url": "https://github.com/FutureXpo/Chrome-Extension-LMS-Answers",
+	"description": "Easy answers from your heart. Made with love by FutureX",
+	"icons": {
+		"16": "icons/icon.png",
+		"32": "icons/icon.png",
+		"48": "icons/icon.png",
+		"128": "icons/icon.png"
+	},
+	"version": "1.4.8.8",
+	"manifest_version": 2,
+	"browser_action": {
+		"default_icon": "icons/icon.png",
+		"default_popup": "popup/popup.html"
+	},
+	"options_ui": {
+		"page": "popup/popup.html",
+		"open_in_tab": false
+	},
+	"background": {
+		"scripts": ["js/background.js", "js/true_mode.js" ]
+	},
+	"content_scripts": [
+		{
+			"matches": [ "*://www.cambridgelms.org/*" ],
+			"js": [ "js/simple_mode.js" ],
+			"run_at": "document_end"
+		},{
+			"matches": [ "*://www.cambridgelms.org/*" ],
+			"js": [ "js/jquery.js", "js/show_mode.js", "js/auto_mode.js" ],
+			"run_at": "document_idle",
+			"all_frames": true
+		}
+	],
+	"permissions": [  
+		"tabs",
+		"contextMenus",
+		"storage",
+		"webRequest",
+		"webRequestBlocking",
+		"*://www.cambridgelms.org/*",
+		"activeTab",
+		"management"
+	]
+}
