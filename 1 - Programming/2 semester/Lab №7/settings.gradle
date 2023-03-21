@@ -1,0 +1,5 @@
+rootProject.name = 'ballab7gradle'
+include 'client'
+include 'server'
+include 'global'
+

@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26002b09-768a-4a1f-92a1-acc41f14663b" name="Default Changelist" comment="changes 1.0">
+      <change afterPath="$PROJECT_DIR$/.idea/ballab7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/96758911-176f-49c7-afe6-b79368f1c5b2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/96758911-176f-49c7-afe6-b79368f1c5b2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/client">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ballab6gradle" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1riNXkLV75TbXrYCr6Q7dgg0nLP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Лабораторная работа #1" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client_works.Client" />
+      <module name="ballab6gradle.client.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client_works.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server_works.Server" />
+      <module name="ballab6gradle.server.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server_works.ServerReceiveInterface" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ballab6gradle [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ballab6gradle [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ballab6gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Gradle.ballab6gradle" />
+      <item itemvalue="Gradle.ballab6gradle [buildDependents]" />
+      <item itemvalue="Gradle.ballab6gradle [build]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Gradle.ballab6gradle [build]" />
+        <item itemvalue="Gradle.ballab6gradle" />
+        <item itemvalue="Gradle.ballab6gradle [buildDependents]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26002b09-768a-4a1f-92a1-acc41f14663b" name="Default Changelist" comment="" />
+      <created>1619454992382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619454992382</updated>
+      <workItem from="1619454993554" duration="3366000" />
+      <workItem from="1619458412326" duration="170000" />
+      <workItem from="1619458592547" duration="284000" />
+      <workItem from="1619458885709" duration="899000" />
+      <workItem from="1619459821497" duration="559000" />
+      <workItem from="1619460435494" duration="76000" />
+      <workItem from="1619460532861" duration="154000" />
+      <workItem from="1619460724621" duration="561000" />
+      <workItem from="1619461299618" duration="404000" />
+      <workItem from="1619461717985" duration="2911000" />
+      <workItem from="1619464860230" duration="653000" />
+      <workItem from="1619465529929" duration="447000" />
+      <workItem from="1619468799717" duration="13000" />
+      <workItem from="1619506684262" duration="1683000" />
+      <workItem from="1619510803791" duration="3761000" />
+      <workItem from="1619519159417" duration="594000" />
+      <workItem from="1619536779211" duration="1191000" />
+      <workItem from="1619538856761" duration="1188000" />
+      <workItem from="1619632911479" duration="57000" />
+      <workItem from="1620051115079" duration="689000" />
+      <workItem from="1620052597301" duration="5000" />
+      <workItem from="1620068230202" duration="5000" />
+      <workItem from="1620160095167" duration="87000" />
+      <workItem from="1620161106732" duration="3000" />
+      <workItem from="1620235803868" duration="6000" />
+      <workItem from="1620318100039" duration="40000" />
+      <workItem from="1620318457147" duration="821000" />
+      <workItem from="1620399374445" duration="3490000" />
+      <workItem from="1620408967368" duration="25000" />
+      <workItem from="1620571752018" duration="3162000" />
+      <workItem from="1620640679515" duration="4129000" />
+      <workItem from="1620659533876" duration="25000" />
+      <workItem from="1620900534714" duration="5000" />
+      <workItem from="1621075418104" duration="1000" />
+      <workItem from="1621077242286" duration="1189000" />
+      <workItem from="1621096265235" duration="2000" />
+      <workItem from="1621321526210" duration="123000" />
+      <workItem from="1621346283652" duration="5000" />
+      <workItem from="1621346299779" duration="12069000" />
+      <workItem from="1621416226051" duration="7386000" />
+      <workItem from="1621442700497" duration="1000" />
+      <workItem from="1621443916624" duration="696000" />
+      <workItem from="1621445428859" duration="353000" />
+      <workItem from="1621450405199" duration="1317000" />
+      <workItem from="1621508240786" duration="16011000" />
+      <workItem from="1621524926200" duration="2447000" />
+      <workItem from="1621530442475" duration="6590000" />
+      <workItem from="1621542005672" duration="829000" />
+      <workItem from="1621584866518" duration="18686000" />
+      <workItem from="1621681853966" duration="22171000" />
+      <workItem from="1621763236997" duration="2592000" />
+      <workItem from="1621798831726" duration="6315000" />
+      <workItem from="1621848214394" duration="6405000" />
+      <workItem from="1621857491776" duration="23470000" />
+      <workItem from="1621928000477" duration="4392000" />
+      <workItem from="1622117024736" duration="3000" />
+      <workItem from="1622212684798" duration="2000" />
+      <workItem from="1622223478112" duration="498000" />
+      <workItem from="1622294847918" duration="6000" />
+      <workItem from="1622298210712" duration="2095000" />
+      <workItem from="1622303768655" duration="1508000" />
+      <workItem from="1622377790945" duration="4000" />
+      <workItem from="1622919831381" duration="230000" />
+      <workItem from="1644250327705" duration="3062000" />
+      <workItem from="1644332969543" duration="7616000" />
+      <workItem from="1644418293127" duration="2192000" />
+    </task>
+    <task id="LOCAL-00001" summary="changes">
+      <created>1619508213101</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619508213101</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changes">
+      <created>1620401650272</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620401650272</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changes">
+      <created>1621366696826</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621366696826</updated>
+    </task>
+    <task id="LOCAL-00004" summary="last changes">
+      <created>1621524608189</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621524608189</updated>
+    </task>
+    <task id="LOCAL-00005" summary="changes 1.0">
+      <created>1622303203003</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622303203003</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="changes" />
+    <MESSAGE value="last changes" />
+    <MESSAGE value="changes 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes 1.0" />
+  </component>
+</project>

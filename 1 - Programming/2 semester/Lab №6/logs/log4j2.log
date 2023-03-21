@@ -1,0 +1,1694 @@
+2021-05-20 00:53:47,319 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:63386
+2021-05-20 00:53:47,415 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:63386
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 00:53:54,934 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:63388
+2021-05-20 00:55:29,479 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:61290
+2021-05-20 00:55:29,568 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:61290
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 00:55:37,950 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:61293
+2021-05-20 01:25:41,694 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:64521
+2021-05-20 01:25:41,778 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:64521
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 01:25:55,275 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:64522
+2021-05-20 16:57:45,712 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56147
+2021-05-20 16:57:45,808 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:56147
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 16:57:52,005 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56149
+2021-05-20 17:03:09,418 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:49390
+2021-05-20 17:03:09,516 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:49390
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 17:03:18,505 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:49395
+2021-05-20 17:05:27,939 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:55071
+2021-05-20 17:05:28,026 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:55071
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 17:05:37,532 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:55072
+2021-05-20 17:10:56,639 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:62349
+2021-05-20 17:10:56,725 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:62349
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 17:10:59,645 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:62349
+2021-05-20 17:10:59,651 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:62349
+[
+key: 0
+id №1
+Name: asda
+Coordinates: X: 36.3
+			 Y: 56.2
+creationDate: Mon Mar 01 15:12:43 ALMT 2021
+Health: 313.0
+Heart Count: 1
+Height: 2.0
+Category: SCOUT
+Chapter: Name: dasdada
+	     World: sdaasaaaa
+
+
+key: 1
+id №213912
+Name: DamiR
+Coordinates: X: 36.3
+			 Y: 56.2
+creationDate: Tue Feb 23 14:42:44 ALMT 2021
+Health: 5555.2
+Heart Count: 1
+Height: 5321.0
+Category: SCOUT
+Chapter: Name: Attack of the Clones
+	     World: Naboo
+
+
+key: 2
+id №12312
+Name: Apppaaa
+Coordinates: X: 10.4
+			 Y: 10.1
+creationDate: Sat Aug 14 19:23:32 ALMT 2021
+Health: 1999.2
+Heart Count: 3
+Height: 3200.0
+Category: CHAPLAIN
+Chapter: Name: Revenge of the Sith
+	     World: Kashyyyk
+
+
+key: 28083
+id №81966
+Name: ksadm
+Coordinates: X: 12.0
+			 Y: 1.0
+creationDate: Mon Mar 01 15:11:12 ALMT 2021
+Health: 2.0
+Heart Count: 2
+Height: 2.0
+Category: SCOUT
+Chapter: Name: das
+	     World: das
+
+
+key: 39864
+id №11
+Name: NOVIY
+Coordinates: X: 12.0
+			 Y: 1.0
+creationDate: Mon Mar 01 15:16:52 ALMT 2021
+Health: 1.0
+Heart Count: 1
+Height: 1.0
+Category: DREADNOUGHT
+Chapter: Name: dsa
+	     World: das
+
+
+key: 51905
+id №121
+Name: sad
+Coordinates: X: 1.0
+			 Y: 2.0
+creationDate: Mon Mar 01 15:10:48 ALMT 2021
+Health: 2.0
+Heart Count: 3
+Height: 312.0
+Category: SCOUT
+Chapter: Name: sad
+	     World: das
+
+
+
+]
+2021-05-20 17:11:01,659 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:62349
+2021-05-20 17:11:01,660 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:62349
+[
+print_field_descending_heart_count: вывести значения поля heartCount всех элементов в порядке убывания.
+remove_greater {element}: удалить из коллекции все элементы, превышающие заданный.
+show: вывести в стандартный поток вывода все элементы коллекции в строковом представлении.
+clear: очистить коллекцию.
+save: сохранить коллекцию в файл.
+replace_if_lowe null {element}: заменить значение по ключу, если новое значение меньше старого.
+update id {element}: обновить значение элемента коллекции, id которого равен заданному.
+remove_key null: удалить элемент из коллекции по его ключу.
+help: вывести справку по доступным командам.
+exit: завершить программу (без сохранения в файл).
+remove_lower_key null: удалить из коллекции все элементы, ключ которых меньше, чем заданный.
+execute_script file_name:  считать и исполнить скрипт из указанного файла. В скрипте содержатся команды в таком же виде, в котором их вводит пользователь в интерактивном режиме..
+average_of_height: вывести среднее значение поля height для всех элементов коллекции.
+group_counting_by_category: сгруппировать элементы коллекции по значению поля category, вывести количество элементов в каждой группе.
+info: вывести в стандартный поток вывода информацию о коллекции (тип, дата инициализации, количество элементов и т.д.).
+insert null {element}: добавить новый элемент с заданным ключом.
+
+]
+2021-05-20 17:11:08,382 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:62350
+2021-05-20 17:11:08,386 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:62350
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 17:11:19,942 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:62354
+2021-05-20 17:11:19,947 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:62354
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 17:11:29,904 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:62361
+2021-05-20 17:11:40,305 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:62362
+2021-05-20 17:11:40,390 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:62362
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 17:11:50,283 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:62366
+2021-05-20 17:11:50,287 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:62366
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 17:34:21,350 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:58603
+2021-05-20 17:34:21,439 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:58603
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 17:34:32,785 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:58608
+2021-05-20 17:34:32,791 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:58608
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 17:37:01,970 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56090
+2021-05-20 17:37:02,058 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:56090
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 17:37:30,305 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56099
+2021-05-20 17:37:30,397 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:56099
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 17:37:46,466 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56106
+2021-05-20 17:37:46,473 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:56106
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 17:47:21,405 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:54705
+2021-05-20 17:47:21,495 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:54705
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 17:47:37,756 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:54710
+2021-05-20 17:47:37,761 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:54710
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 17:49:15,401 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:54750
+2021-05-20 17:49:15,492 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:54750
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 17:49:29,918 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:54760
+2021-05-20 17:49:29,923 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:54760
+[
+Collection loaded successfully! Added 
+Type help to display a list of available commands
+]
+2021-05-20 17:49:56,489 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:51642
+2021-05-20 17:49:56,576 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:51642
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 17:50:07,043 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:51645
+2021-05-20 17:50:07,049 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:51645
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 17:51:14,229 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:51662
+2021-05-20 17:51:14,314 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:51662
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 17:51:53,067 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:51680
+2021-05-20 17:51:53,072 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:51680
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 17:55:42,807 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:53752
+2021-05-20 17:55:42,893 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:53752
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 17:56:09,023 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:53759
+2021-05-20 17:56:09,030 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:53759
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 17:58:42,546 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:52565
+2021-05-20 17:58:42,630 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:52565
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 17:59:24,934 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:50096
+2021-05-20 17:59:24,939 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:50096
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 18:13:06,840 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:62155
+2021-05-20 18:13:06,923 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:62155
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 18:13:17,552 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:62157
+2021-05-20 18:13:17,556 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:62157
+[
+Collection loaded successfully! Added 
+Type help to display a list of available commands
+]
+2021-05-20 18:13:37,347 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:62159
+2021-05-20 18:13:37,352 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:62159
+[
+Collection loaded successfully! Added 
+Type help to display a list of available commands
+]
+2021-05-20 18:13:38,337 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:62159
+2021-05-20 18:13:38,348 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:62159
+[
+key: 0
+id №1
+Name: asda
+Coordinates: X: 36.3
+			 Y: 56.2
+creationDate: Mon Mar 01 15:12:43 ALMT 2021
+Health: 313.0
+Heart Count: 1
+Height: 2.0
+Category: SCOUT
+Chapter: Name: dasdada
+	     World: sdaasaaaa
+
+
+key: 1
+id №213912
+Name: DamiR
+Coordinates: X: 36.3
+			 Y: 56.2
+creationDate: Tue Feb 23 14:42:44 ALMT 2021
+Health: 5555.2
+Heart Count: 1
+Height: 5321.0
+Category: SCOUT
+Chapter: Name: Attack of the Clones
+	     World: Naboo
+
+
+key: 2
+id №12312
+Name: Apppaaa
+Coordinates: X: 10.4
+			 Y: 10.1
+creationDate: Sat Aug 14 19:23:32 ALMT 2021
+Health: 1999.2
+Heart Count: 3
+Height: 3200.0
+Category: CHAPLAIN
+Chapter: Name: Revenge of the Sith
+	     World: Kashyyyk
+
+
+key: 28083
+id №81966
+Name: ksadm
+Coordinates: X: 12.0
+			 Y: 1.0
+creationDate: Mon Mar 01 15:11:12 ALMT 2021
+Health: 2.0
+Heart Count: 2
+Height: 2.0
+Category: SCOUT
+Chapter: Name: das
+	     World: das
+
+
+key: 39864
+id №11
+Name: NOVIY
+Coordinates: X: 12.0
+			 Y: 1.0
+creationDate: Mon Mar 01 15:16:52 ALMT 2021
+Health: 1.0
+Heart Count: 1
+Height: 1.0
+Category: DREADNOUGHT
+Chapter: Name: dsa
+	     World: das
+
+
+key: 51905
+id №121
+Name: sad
+Coordinates: X: 1.0
+			 Y: 2.0
+creationDate: Mon Mar 01 15:10:48 ALMT 2021
+Health: 2.0
+Heart Count: 3
+Height: 312.0
+Category: SCOUT
+Chapter: Name: sad
+	     World: das
+
+
+
+]
+2021-05-20 18:13:46,014 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:62155
+2021-05-20 18:13:46,016 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:62155
+[
+key: 0
+id №1
+Name: asda
+Coordinates: X: 36.3
+			 Y: 56.2
+creationDate: Mon Mar 01 15:12:43 ALMT 2021
+Health: 313.0
+Heart Count: 1
+Height: 2.0
+Category: SCOUT
+Chapter: Name: dasdada
+	     World: sdaasaaaa
+
+
+key: 1
+id №213912
+Name: DamiR
+Coordinates: X: 36.3
+			 Y: 56.2
+creationDate: Tue Feb 23 14:42:44 ALMT 2021
+Health: 5555.2
+Heart Count: 1
+Height: 5321.0
+Category: SCOUT
+Chapter: Name: Attack of the Clones
+	     World: Naboo
+
+
+key: 2
+id №12312
+Name: Apppaaa
+Coordinates: X: 10.4
+			 Y: 10.1
+creationDate: Sat Aug 14 19:23:32 ALMT 2021
+Health: 1999.2
+Heart Count: 3
+Height: 3200.0
+Category: CHAPLAIN
+Chapter: Name: Revenge of the Sith
+	     World: Kashyyyk
+
+
+key: 28083
+id №81966
+Name: ksadm
+Coordinates: X: 12.0
+			 Y: 1.0
+creationDate: Mon Mar 01 15:11:12 ALMT 2021
+Health: 2.0
+Heart Count: 2
+Height: 2.0
+Category: SCOUT
+Chapter: Name: das
+	     World: das
+
+
+key: 39864
+id №11
+Name: NOVIY
+Coordinates: X: 12.0
+			 Y: 1.0
+creationDate: Mon Mar 01 15:16:52 ALMT 2021
+Health: 1.0
+Heart Count: 1
+Height: 1.0
+Category: DREADNOUGHT
+Chapter: Name: dsa
+	     World: das
+
+
+key: 51905
+id №121
+Name: sad
+Coordinates: X: 1.0
+			 Y: 2.0
+creationDate: Mon Mar 01 15:10:48 ALMT 2021
+Health: 2.0
+Heart Count: 3
+Height: 312.0
+Category: SCOUT
+Chapter: Name: sad
+	     World: das
+
+
+
+]
+2021-05-20 18:13:53,064 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:62155
+2021-05-20 18:13:53,065 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:62155
+[
+Collection information:
+Collection type:java.util.TreeMap
+The number of items in the collection: 6
+Last initialization date: Thu May 20 18:13:37 ALMT 2021
+Last save date: There was no save yet.
+path to json file: C:\Users\User\Desktop\Лабораторные работы\Программирование\ballab6\test\text.json
+]
+2021-05-20 18:14:01,454 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:62159
+2021-05-20 18:14:01,454 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:62159
+[
+Collection information:
+Collection type:java.util.TreeMap
+The number of items in the collection: 6
+Last initialization date: Thu May 20 18:13:37 ALMT 2021
+Last save date: There was no save yet.
+path to json file: C:\Users\User\Desktop\Лабораторные работы\Программирование\ballab6\test\text.json
+]
+2021-05-20 18:14:30,168 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:53744
+2021-05-20 18:14:30,251 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:53744
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 18:14:36,178 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:53744
+2021-05-20 18:14:36,183 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:53744
+[
+Информация о коллекции:
+Тип коллекции: java.util.LinkedHashMap
+Количество элементов в коллекции: 6
+Дата последней инициализации: Thu May 20 18:14:30 ALMT 2021
+Дата последнего сохранения: Сохранения еще не было.
+Путь до json файла: C:\Users\User\Desktop\Лабораторные работы\Программирование\ballab6\test\text.json
+]
+2021-05-20 18:14:47,904 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:53745
+2021-05-20 18:14:47,913 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:53745
+[
+Collection loaded successfully! Added 
+Type help to display a list of available commands
+]
+2021-05-20 18:14:50,896 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:53745
+2021-05-20 18:14:50,897 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:53745
+[
+Collection information:
+Collection type:java.util.LinkedHashMap
+The number of items in the collection: 6
+Last initialization date: Thu May 20 18:14:47 ALMT 2021
+Last save date: There was no save yet.
+path to json file: C:\Users\User\Desktop\Лабораторные работы\Программирование\ballab6\test\text.json
+]
+2021-05-20 18:14:59,349 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:53744
+2021-05-20 18:14:59,350 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:53744
+[
+Collection information:
+Collection type:java.util.LinkedHashMap
+The number of items in the collection: 6
+Last initialization date: Thu May 20 18:14:47 ALMT 2021
+Last save date: There was no save yet.
+path to json file: C:\Users\User\Desktop\Лабораторные работы\Программирование\ballab6\test\text.json
+]
+2021-05-20 18:25:30,285 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56554
+2021-05-20 18:31:06,727 ERROR s.Server [main] Ошибка на сервере
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:550) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bindInternal(DatagramChannelImpl.java:1189) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bind(DatagramChannelImpl.java:1160) ~[?:?]
+	at java.base/sun.nio.ch.DatagramSocketAdaptor.bind(DatagramSocketAdaptor.java:107) ~[?:?]
+	at java.base/java.net.DatagramSocket.createDelegate(DatagramSocket.java:1131) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:197) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:256) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:222) ~[?:?]
+	at server_works.Server.startServer(Server.java:30) [main/:?]
+	at server_works.Server.main(Server.java:23) [main/:?]
+2021-05-20 18:31:25,903 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56820
+2021-05-20 18:31:25,988 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:56820
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 18:32:01,467 ERROR s.Server [main] Ошибка на сервере
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:550) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bindInternal(DatagramChannelImpl.java:1189) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bind(DatagramChannelImpl.java:1160) ~[?:?]
+	at java.base/sun.nio.ch.DatagramSocketAdaptor.bind(DatagramSocketAdaptor.java:107) ~[?:?]
+	at java.base/java.net.DatagramSocket.createDelegate(DatagramSocket.java:1131) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:197) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:256) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:222) ~[?:?]
+	at server_works.Server.startServer(Server.java:30) [main/:?]
+	at server_works.Server.main(Server.java:23) [main/:?]
+2021-05-20 18:32:14,151 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56828
+2021-05-20 18:32:14,234 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:56828
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 18:32:32,038 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56835
+2021-05-20 18:32:32,043 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:56835
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 18:32:51,795 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56839
+2021-05-20 18:32:51,800 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:56839
+[
+Collection loaded successfully! Added 
+Type help to display a list of available commands
+]
+2021-05-20 18:33:15,167 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56848
+2021-05-20 18:33:15,250 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:56848
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 18:33:25,157 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56853
+2021-05-20 18:33:25,163 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:56853
+[
+Collection loaded successfully! Added 
+Type help to display a list of available commands
+]
+2021-05-20 18:33:32,820 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56854
+2021-05-20 18:33:32,825 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:56854
+[
+Collection loaded successfully! Added 
+Type help to display a list of available commands
+]
+2021-05-20 19:39:53,060 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:63394
+2021-05-20 19:41:14,600 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:61210
+2021-05-20 19:42:19,748 ERROR s.Server [main] Ошибка на сервере
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:550) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bindInternal(DatagramChannelImpl.java:1189) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bind(DatagramChannelImpl.java:1160) ~[?:?]
+	at java.base/sun.nio.ch.DatagramSocketAdaptor.bind(DatagramSocketAdaptor.java:107) ~[?:?]
+	at java.base/java.net.DatagramSocket.createDelegate(DatagramSocket.java:1131) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:197) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:256) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:222) ~[?:?]
+	at server_works.Server.startServer(Server.java:39) [main/:?]
+	at server_works.Server.main(Server.java:32) [main/:?]
+2021-05-20 19:42:33,968 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:61231
+2021-05-20 19:45:32,638 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:60469
+2021-05-20 19:45:32,683 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:60469
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 19:48:31,803 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:61980
+2021-05-20 19:48:31,850 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:61980
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 19:50:39,021 ERROR s.Server [main] Ошибка на сервере
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:550) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bindInternal(DatagramChannelImpl.java:1189) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bind(DatagramChannelImpl.java:1160) ~[?:?]
+	at java.base/sun.nio.ch.DatagramSocketAdaptor.bind(DatagramSocketAdaptor.java:107) ~[?:?]
+	at java.base/java.net.DatagramSocket.createDelegate(DatagramSocket.java:1131) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:197) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:256) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:222) ~[?:?]
+	at server_works.Server.startServer(Server.java:37) [main/:?]
+	at server_works.Server.main(Server.java:30) [main/:?]
+2021-05-20 19:50:43,102 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:61847
+2021-05-20 19:50:43,151 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:61847
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 19:51:56,619 ERROR s.Server [main] Ошибка на сервере
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:550) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bindInternal(DatagramChannelImpl.java:1189) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bind(DatagramChannelImpl.java:1160) ~[?:?]
+	at java.base/sun.nio.ch.DatagramSocketAdaptor.bind(DatagramSocketAdaptor.java:107) ~[?:?]
+	at java.base/java.net.DatagramSocket.createDelegate(DatagramSocket.java:1131) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:197) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:256) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:222) ~[?:?]
+	at server_works.Server.startServer(Server.java:37) [main/:?]
+	at server_works.Server.main(Server.java:30) [main/:?]
+2021-05-20 19:52:05,836 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:61865
+2021-05-20 19:52:05,883 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:61865
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 19:55:03,002 ERROR s.Server [main] Ошибка на сервере
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:550) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bindInternal(DatagramChannelImpl.java:1189) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bind(DatagramChannelImpl.java:1160) ~[?:?]
+	at java.base/sun.nio.ch.DatagramSocketAdaptor.bind(DatagramSocketAdaptor.java:107) ~[?:?]
+	at java.base/java.net.DatagramSocket.createDelegate(DatagramSocket.java:1131) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:197) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:256) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:222) ~[?:?]
+	at server_works.Server.startServer(Server.java:37) [main/:?]
+	at server_works.Server.main(Server.java:30) [main/:?]
+2021-05-20 19:55:13,132 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:65164
+2021-05-20 19:55:13,178 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:65164
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 19:56:33,265 ERROR s.Server [main] Ошибка на сервере
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:550) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bindInternal(DatagramChannelImpl.java:1189) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bind(DatagramChannelImpl.java:1160) ~[?:?]
+	at java.base/sun.nio.ch.DatagramSocketAdaptor.bind(DatagramSocketAdaptor.java:107) ~[?:?]
+	at java.base/java.net.DatagramSocket.createDelegate(DatagramSocket.java:1131) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:197) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:256) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:222) ~[?:?]
+	at server_works.Server.startServer(Server.java:37) [main/:?]
+	at server_works.Server.main(Server.java:30) [main/:?]
+2021-05-20 19:56:45,227 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:54727
+2021-05-20 19:56:45,273 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:54727
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 19:58:20,924 ERROR s.Server [main] Ошибка на сервере
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:550) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bindInternal(DatagramChannelImpl.java:1189) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bind(DatagramChannelImpl.java:1160) ~[?:?]
+	at java.base/sun.nio.ch.DatagramSocketAdaptor.bind(DatagramSocketAdaptor.java:107) ~[?:?]
+	at java.base/java.net.DatagramSocket.createDelegate(DatagramSocket.java:1131) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:197) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:256) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:222) ~[?:?]
+	at server_works.Server.startServer(Server.java:37) [main/:?]
+	at server_works.Server.main(Server.java:30) [main/:?]
+2021-05-20 19:58:29,578 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:62964
+2021-05-20 19:58:29,630 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:62964
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 19:58:38,512 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:62966
+2021-05-20 19:58:38,516 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:62966
+[
+Collection loaded successfully! Added 
+Type help to display a list of available commands
+]
+2021-05-20 19:58:43,551 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:62966
+2021-05-20 19:59:56,709 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56246
+2021-05-20 19:59:56,756 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:56246
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 19:59:59,712 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56246
+2021-05-20 20:03:17,793 ERROR s.Server [main] Ошибка на сервере
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:550) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bindInternal(DatagramChannelImpl.java:1189) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bind(DatagramChannelImpl.java:1160) ~[?:?]
+	at java.base/sun.nio.ch.DatagramSocketAdaptor.bind(DatagramSocketAdaptor.java:107) ~[?:?]
+	at java.base/java.net.DatagramSocket.createDelegate(DatagramSocket.java:1131) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:197) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:256) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:222) ~[?:?]
+	at server_works.Server.startServer(Server.java:38) [main/:?]
+	at server_works.Server.main(Server.java:31) [main/:?]
+2021-05-20 20:03:27,405 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:63860
+2021-05-20 20:03:27,453 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:63860
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 20:03:32,437 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:63860
+2021-05-20 20:11:15,619 ERROR s.Server [main] Ошибка на сервере
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:550) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bindInternal(DatagramChannelImpl.java:1189) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bind(DatagramChannelImpl.java:1160) ~[?:?]
+	at java.base/sun.nio.ch.DatagramSocketAdaptor.bind(DatagramSocketAdaptor.java:107) ~[?:?]
+	at java.base/java.net.DatagramSocket.createDelegate(DatagramSocket.java:1131) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:197) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:256) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:222) ~[?:?]
+	at server_works.Server.startServer(Server.java:38) [main/:?]
+	at server_works.Server.main(Server.java:31) [main/:?]
+2021-05-20 20:11:25,040 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:50474
+2021-05-20 20:11:25,088 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:50474
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 20:11:27,026 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:50474
+2021-05-20 20:11:35,889 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:50477
+2021-05-20 20:11:35,936 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:50477
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 20:11:37,886 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:50477
+2021-05-20 20:13:24,638 ERROR s.Server [main] Ошибка на сервере
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:550) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bindInternal(DatagramChannelImpl.java:1189) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bind(DatagramChannelImpl.java:1160) ~[?:?]
+	at java.base/sun.nio.ch.DatagramSocketAdaptor.bind(DatagramSocketAdaptor.java:107) ~[?:?]
+	at java.base/java.net.DatagramSocket.createDelegate(DatagramSocket.java:1131) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:197) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:256) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:222) ~[?:?]
+	at server_works.Server.startServer(Server.java:38) [main/:?]
+	at server_works.Server.main(Server.java:31) [main/:?]
+2021-05-20 20:13:36,023 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:50501
+2021-05-20 20:13:36,074 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:50501
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 20:13:38,004 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:50501
+2021-05-20 20:17:25,120 ERROR s.Server [main] Ошибка на сервере
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:550) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bindInternal(DatagramChannelImpl.java:1189) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bind(DatagramChannelImpl.java:1160) ~[?:?]
+	at java.base/sun.nio.ch.DatagramSocketAdaptor.bind(DatagramSocketAdaptor.java:107) ~[?:?]
+	at java.base/java.net.DatagramSocket.createDelegate(DatagramSocket.java:1131) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:197) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:256) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:222) ~[?:?]
+	at server_works.Server.startServer(Server.java:38) [main/:?]
+	at server_works.Server.main(Server.java:31) [main/:?]
+2021-05-20 20:17:33,799 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:58970
+2021-05-20 20:17:33,846 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:58970
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 20:17:35,792 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:58970
+2021-05-20 20:19:10,385 ERROR s.Server [main] Ошибка на сервере
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:550) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bindInternal(DatagramChannelImpl.java:1189) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bind(DatagramChannelImpl.java:1160) ~[?:?]
+	at java.base/sun.nio.ch.DatagramSocketAdaptor.bind(DatagramSocketAdaptor.java:107) ~[?:?]
+	at java.base/java.net.DatagramSocket.createDelegate(DatagramSocket.java:1131) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:197) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:256) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:222) ~[?:?]
+	at server_works.Server.startServer(Server.java:38) [main/:?]
+	at server_works.Server.main(Server.java:31) [main/:?]
+2021-05-20 20:19:21,262 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:64936
+2021-05-20 20:19:21,309 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:64936
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 20:19:25,269 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:64936
+2021-05-20 20:21:15,719 ERROR s.Server [main] Ошибка на сервере
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:550) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bindInternal(DatagramChannelImpl.java:1189) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bind(DatagramChannelImpl.java:1160) ~[?:?]
+	at java.base/sun.nio.ch.DatagramSocketAdaptor.bind(DatagramSocketAdaptor.java:107) ~[?:?]
+	at java.base/java.net.DatagramSocket.createDelegate(DatagramSocket.java:1131) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:197) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:256) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:222) ~[?:?]
+	at server_works.Server.startServer(Server.java:38) [main/:?]
+	at server_works.Server.main(Server.java:31) [main/:?]
+2021-05-20 20:21:23,319 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:54600
+2021-05-20 20:21:23,365 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:54600
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 20:21:25,301 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:54600
+2021-05-20 20:26:35,787 ERROR s.Server [main] Ошибка на сервере
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:550) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bindInternal(DatagramChannelImpl.java:1189) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bind(DatagramChannelImpl.java:1160) ~[?:?]
+	at java.base/sun.nio.ch.DatagramSocketAdaptor.bind(DatagramSocketAdaptor.java:107) ~[?:?]
+	at java.base/java.net.DatagramSocket.createDelegate(DatagramSocket.java:1131) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:197) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:256) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:222) ~[?:?]
+	at server_works.Server.startServer(Server.java:38) [main/:?]
+	at server_works.Server.main(Server.java:31) [main/:?]
+2021-05-20 20:26:44,995 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:64232
+2021-05-20 20:26:45,042 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:64232
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 20:26:46,978 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:64232
+2021-05-20 20:27:18,834 ERROR s.Server [main] Ошибка на сервере
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:550) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bindInternal(DatagramChannelImpl.java:1189) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bind(DatagramChannelImpl.java:1160) ~[?:?]
+	at java.base/sun.nio.ch.DatagramSocketAdaptor.bind(DatagramSocketAdaptor.java:107) ~[?:?]
+	at java.base/java.net.DatagramSocket.createDelegate(DatagramSocket.java:1131) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:197) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:256) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:222) ~[?:?]
+	at server_works.Server.startServer(Server.java:38) [main/:?]
+	at server_works.Server.main(Server.java:31) [main/:?]
+2021-05-20 20:27:26,611 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:64241
+2021-05-20 20:27:26,658 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:64241
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 20:27:28,612 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:64241
+2021-05-20 20:28:37,849 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:51583
+2021-05-20 20:28:37,899 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:51583
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 20:28:39,834 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:51583
+2021-05-20 20:28:39,842 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:51583
+[
+print_field_descending_heart_count: вывести значения поля heartCount всех элементов в порядке убывания.
+remove_greater {element}: удалить из коллекции все элементы, превышающие заданный.
+show: вывести в стандартный поток вывода все элементы коллекции в строковом представлении.
+clear: очистить коллекцию.
+save: сохранить коллекцию в файл.
+replace_if_lowe null {element}: заменить значение по ключу, если новое значение меньше старого.
+update id {element}: обновить значение элемента коллекции, id которого равен заданному.
+remove_key null: удалить элемент из коллекции по его ключу.
+help: вывести справку по доступным командам.
+exit: завершить программу (без сохранения в файл).
+remove_lower_key null: удалить из коллекции все элементы, ключ которых меньше, чем заданный.
+execute_script file_name:  считать и исполнить скрипт из указанного файла. В скрипте содержатся команды в таком же виде, в котором их вводит пользователь в интерактивном режиме..
+average_of_height: вывести среднее значение поля height для всех элементов коллекции.
+group_counting_by_category: сгруппировать элементы коллекции по значению поля category, вывести количество элементов в каждой группе.
+info: вывести в стандартный поток вывода информацию о коллекции (тип, дата инициализации, количество элементов и т.д.).
+insert null {element}: добавить новый элемент с заданным ключом.
+
+]
+2021-05-20 20:28:44,877 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:51583
+2021-05-20 20:30:59,937 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56376
+2021-05-20 20:30:59,985 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:56376
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 20:31:02,918 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56376
+2021-05-20 20:31:02,926 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:56376
+[
+print_field_descending_heart_count: вывести значения поля heartCount всех элементов в порядке убывания.
+remove_greater {element}: удалить из коллекции все элементы, превышающие заданный.
+show: вывести в стандартный поток вывода все элементы коллекции в строковом представлении.
+clear: очистить коллекцию.
+save: сохранить коллекцию в файл.
+replace_if_lowe null {element}: заменить значение по ключу, если новое значение меньше старого.
+update id {element}: обновить значение элемента коллекции, id которого равен заданному.
+remove_key null: удалить элемент из коллекции по его ключу.
+help: вывести справку по доступным командам.
+exit: завершить программу (без сохранения в файл).
+remove_lower_key null: удалить из коллекции все элементы, ключ которых меньше, чем заданный.
+execute_script file_name:  считать и исполнить скрипт из указанного файла. В скрипте содержатся команды в таком же виде, в котором их вводит пользователь в интерактивном режиме..
+average_of_height: вывести среднее значение поля height для всех элементов коллекции.
+group_counting_by_category: сгруппировать элементы коллекции по значению поля category, вывести количество элементов в каждой группе.
+info: вывести в стандартный поток вывода информацию о коллекции (тип, дата инициализации, количество элементов и т.д.).
+insert null {element}: добавить новый элемент с заданным ключом.
+
+]
+2021-05-20 20:31:04,946 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56376
+2021-05-20 20:31:04,957 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:56376
+[
+key: 0
+id №1
+Name: asda
+Coordinates: X: 36.3
+			 Y: 56.2
+creationDate: Mon Mar 01 15:12:43 ALMT 2021
+Health: 313.0
+Heart Count: 1
+Height: 2.0
+Category: SCOUT
+Chapter: Name: dasdada
+	     World: sdaasaaaa
+
+
+key: 1
+id №213912
+Name: DamiR
+Coordinates: X: 36.3
+			 Y: 56.2
+creationDate: Tue Feb 23 14:42:44 ALMT 2021
+Health: 5555.2
+Heart Count: 1
+Height: 5321.0
+Category: SCOUT
+Chapter: Name: Attack of the Clones
+	     World: Naboo
+
+
+key: 2
+id №12312
+Name: Apppaaa
+Coordinates: X: 10.4
+			 Y: 10.1
+creationDate: Sat Aug 14 19:23:32 ALMT 2021
+Health: 1999.2
+Heart Count: 3
+Height: 3200.0
+Category: CHAPLAIN
+Chapter: Name: Revenge of the Sith
+	     World: Kashyyyk
+
+
+key: 28083
+id №81966
+Name: ksadm
+Coordinates: X: 12.0
+			 Y: 1.0
+creationDate: Mon Mar 01 15:11:12 ALMT 2021
+Health: 2.0
+Heart Count: 2
+Height: 2.0
+Category: SCOUT
+Chapter: Name: das
+	     World: das
+
+
+key: 39864
+id №11
+Name: NOVIY
+Coordinates: X: 12.0
+			 Y: 1.0
+creationDate: Mon Mar 01 15:16:52 ALMT 2021
+Health: 1.0
+Heart Count: 1
+Height: 1.0
+Category: DREADNOUGHT
+Chapter: Name: dsa
+	     World: das
+
+
+key: 51905
+id №121
+Name: sad
+Coordinates: X: 1.0
+			 Y: 2.0
+creationDate: Mon Mar 01 15:10:48 ALMT 2021
+Health: 2.0
+Heart Count: 3
+Height: 312.0
+Category: SCOUT
+Chapter: Name: sad
+	     World: das
+
+
+
+]
+2021-05-20 20:31:12,133 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56379
+2021-05-20 20:31:12,138 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:56379
+[
+Collection loaded successfully! Added 
+Type help to display a list of available commands
+]
+2021-05-20 20:31:16,168 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56379
+2021-05-20 20:31:16,169 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:56379
+[
+key: 0
+id №1
+Name: asda
+Coordinates: X: 36.3
+			 Y: 56.2
+creationDate: Mon Mar 01 15:12:43 ALMT 2021
+Health: 313.0
+Heart Count: 1
+Height: 2.0
+Category: SCOUT
+Chapter: Name: dasdada
+	     World: sdaasaaaa
+
+
+key: 1
+id №213912
+Name: DamiR
+Coordinates: X: 36.3
+			 Y: 56.2
+creationDate: Tue Feb 23 14:42:44 ALMT 2021
+Health: 5555.2
+Heart Count: 1
+Height: 5321.0
+Category: SCOUT
+Chapter: Name: Attack of the Clones
+	     World: Naboo
+
+
+key: 2
+id №12312
+Name: Apppaaa
+Coordinates: X: 10.4
+			 Y: 10.1
+creationDate: Sat Aug 14 19:23:32 ALMT 2021
+Health: 1999.2
+Heart Count: 3
+Height: 3200.0
+Category: CHAPLAIN
+Chapter: Name: Revenge of the Sith
+	     World: Kashyyyk
+
+
+key: 28083
+id №81966
+Name: ksadm
+Coordinates: X: 12.0
+			 Y: 1.0
+creationDate: Mon Mar 01 15:11:12 ALMT 2021
+Health: 2.0
+Heart Count: 2
+Height: 2.0
+Category: SCOUT
+Chapter: Name: das
+	     World: das
+
+
+key: 39864
+id №11
+Name: NOVIY
+Coordinates: X: 12.0
+			 Y: 1.0
+creationDate: Mon Mar 01 15:16:52 ALMT 2021
+Health: 1.0
+Heart Count: 1
+Height: 1.0
+Category: DREADNOUGHT
+Chapter: Name: dsa
+	     World: das
+
+
+key: 51905
+id №121
+Name: sad
+Coordinates: X: 1.0
+			 Y: 2.0
+creationDate: Mon Mar 01 15:10:48 ALMT 2021
+Health: 2.0
+Heart Count: 3
+Height: 312.0
+Category: SCOUT
+Chapter: Name: sad
+	     World: das
+
+
+
+]
+2021-05-20 20:31:24,350 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56385
+2021-05-20 20:31:24,396 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:56385
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 20:31:34,098 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56389
+2021-05-20 20:31:34,101 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:56389
+[
+Collection loaded successfully! Added 
+Type help to display a list of available commands
+]
+2021-05-20 20:31:39,414 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56385
+2021-05-20 20:31:39,430 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:56385
+[
+Информация о коллекции:
+Тип коллекции: java.util.LinkedHashMap
+Количество элементов в коллекции: 6
+Дата последней инициализации: Thu May 20 20:31:34 ALMT 2021
+Дата последнего сохранения: Сохранения еще не было.
+Путь до json файла: C:\Users\User\Desktop\Лабораторные работы\Программирование\ballab6\test\text.json
+]
+2021-05-20 20:31:43,161 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56389
+2021-05-20 20:31:43,162 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:56389
+[
+Collection information:
+Collection type:java.util.LinkedHashMap
+The number of items in the collection: 6
+Last initialization date: Thu May 20 20:31:34 ALMT 2021
+Last save date: There was no save yet.
+path to json file: C:\Users\User\Desktop\Лабораторные работы\Программирование\ballab6\test\text.json
+]
+2021-05-20 20:34:48,258 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:54679
+2021-05-20 20:34:48,308 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:54679
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 20:35:01,073 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:54688
+2021-05-20 20:35:01,078 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:54688
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 20:36:37,705 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:64495
+2021-05-20 20:36:37,752 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:64495
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 20:36:53,477 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:64498
+2021-05-20 20:36:53,482 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:64498
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 20:43:48,242 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:55397
+2021-05-20 20:43:48,291 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:55397
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 20:44:31,033 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:53744
+2021-05-20 20:44:31,080 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:53744
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 20:44:37,073 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:53744
+2021-05-20 20:44:37,081 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:53744
+[
+print_field_descending_heart_count: вывести значения поля heartCount всех элементов в порядке убывания.
+remove_greater {element}: удалить из коллекции все элементы, превышающие заданный.
+show: вывести в стандартный поток вывода все элементы коллекции в строковом представлении.
+clear: очистить коллекцию.
+save: сохранить коллекцию в файл.
+replace_if_lowe null {element}: заменить значение по ключу, если новое значение меньше старого.
+update id {element}: обновить значение элемента коллекции, id которого равен заданному.
+remove_key null: удалить элемент из коллекции по его ключу.
+help: вывести справку по доступным командам.
+exit: завершить программу (без сохранения в файл).
+remove_lower_key null: удалить из коллекции все элементы, ключ которых меньше, чем заданный.
+execute_script file_name:  считать и исполнить скрипт из указанного файла. В скрипте содержатся команды в таком же виде, в котором их вводит пользователь в интерактивном режиме..
+average_of_height: вывести среднее значение поля height для всех элементов коллекции.
+group_counting_by_category: сгруппировать элементы коллекции по значению поля category, вывести количество элементов в каждой группе.
+info: вывести в стандартный поток вывода информацию о коллекции (тип, дата инициализации, количество элементов и т.д.).
+insert null {element}: добавить новый элемент с заданным ключом.
+
+]
+2021-05-20 20:44:39,096 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:53744
+2021-05-20 20:44:39,107 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:53744
+[
+key: 0
+id №1
+Name: asda
+Coordinates: X: 36.3
+			 Y: 56.2
+creationDate: Mon Mar 01 15:12:43 ALMT 2021
+Health: 313.0
+Heart Count: 1
+Height: 2.0
+Category: SCOUT
+Chapter: Name: dasdada
+	     World: sdaasaaaa
+
+
+key: 1
+id №213912
+Name: DamiR
+Coordinates: X: 36.3
+			 Y: 56.2
+creationDate: Tue Feb 23 14:42:44 ALMT 2021
+Health: 5555.2
+Heart Count: 1
+Height: 5321.0
+Category: SCOUT
+Chapter: Name: Attack of the Clones
+	     World: Naboo
+
+
+key: 2
+id №12312
+Name: Apppaaa
+Coordinates: X: 10.4
+			 Y: 10.1
+creationDate: Sat Aug 14 19:23:32 ALMT 2021
+Health: 1999.2
+Heart Count: 3
+Height: 3200.0
+Category: CHAPLAIN
+Chapter: Name: Revenge of the Sith
+	     World: Kashyyyk
+
+
+key: 28083
+id №81966
+Name: ksadm
+Coordinates: X: 12.0
+			 Y: 1.0
+creationDate: Mon Mar 01 15:11:12 ALMT 2021
+Health: 2.0
+Heart Count: 2
+Height: 2.0
+Category: SCOUT
+Chapter: Name: das
+	     World: das
+
+
+key: 39864
+id №11
+Name: NOVIY
+Coordinates: X: 12.0
+			 Y: 1.0
+creationDate: Mon Mar 01 15:16:52 ALMT 2021
+Health: 1.0
+Heart Count: 1
+Height: 1.0
+Category: DREADNOUGHT
+Chapter: Name: dsa
+	     World: das
+
+
+key: 51905
+id №121
+Name: sad
+Coordinates: X: 1.0
+			 Y: 2.0
+creationDate: Mon Mar 01 15:10:48 ALMT 2021
+Health: 2.0
+Heart Count: 3
+Height: 312.0
+Category: SCOUT
+Chapter: Name: sad
+	     World: das
+
+
+
+]
+2021-05-20 20:44:42,598 ERROR s.Server [main] Ошибка на сервере
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:550) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bindInternal(DatagramChannelImpl.java:1189) ~[?:?]
+	at java.base/sun.nio.ch.DatagramChannelImpl.bind(DatagramChannelImpl.java:1160) ~[?:?]
+	at java.base/sun.nio.ch.DatagramSocketAdaptor.bind(DatagramSocketAdaptor.java:107) ~[?:?]
+	at java.base/java.net.DatagramSocket.createDelegate(DatagramSocket.java:1131) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:197) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:256) ~[?:?]
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:222) ~[?:?]
+	at server_works.Server.startServer(Server.java:38) [main/:?]
+	at server_works.Server.main(Server.java:31) [main/:?]
+2021-05-20 20:44:50,633 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:55923
+2021-05-20 20:44:50,638 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:55923
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 20:51:15,305 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:51619
+2021-05-20 20:51:15,357 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:51619
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 20:51:22,827 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:50869
+2021-05-20 20:51:22,833 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:50869
+[
+Collection loaded successfully! Added 
+Type help to display a list of available commands
+]
+2021-05-20 20:51:24,837 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:50869
+2021-05-20 20:51:24,857 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:50869
+[
+key: 0
+id №1
+Name: asda
+Coordinates: X: 36.3
+			 Y: 56.2
+creationDate: Mon Mar 01 15:12:43 ALMT 2021
+Health: 313.0
+Heart Count: 1
+Height: 2.0
+Category: SCOUT
+Chapter: Name: dasdada
+	     World: sdaasaaaa
+
+
+key: 1
+id №213912
+Name: DamiR
+Coordinates: X: 36.3
+			 Y: 56.2
+creationDate: Tue Feb 23 14:42:44 ALMT 2021
+Health: 5555.2
+Heart Count: 1
+Height: 5321.0
+Category: SCOUT
+Chapter: Name: Attack of the Clones
+	     World: Naboo
+
+
+key: 2
+id №12312
+Name: Apppaaa
+Coordinates: X: 10.4
+			 Y: 10.1
+creationDate: Sat Aug 14 19:23:32 ALMT 2021
+Health: 1999.2
+Heart Count: 3
+Height: 3200.0
+Category: CHAPLAIN
+Chapter: Name: Revenge of the Sith
+	     World: Kashyyyk
+
+
+key: 28083
+id №81966
+Name: ksadm
+Coordinates: X: 12.0
+			 Y: 1.0
+creationDate: Mon Mar 01 15:11:12 ALMT 2021
+Health: 2.0
+Heart Count: 2
+Height: 2.0
+Category: SCOUT
+Chapter: Name: das
+	     World: das
+
+
+key: 39864
+id №11
+Name: NOVIY
+Coordinates: X: 12.0
+			 Y: 1.0
+creationDate: Mon Mar 01 15:16:52 ALMT 2021
+Health: 1.0
+Heart Count: 1
+Height: 1.0
+Category: DREADNOUGHT
+Chapter: Name: dsa
+	     World: das
+
+
+key: 51905
+id №121
+Name: sad
+Coordinates: X: 1.0
+			 Y: 2.0
+creationDate: Mon Mar 01 15:10:48 ALMT 2021
+Health: 2.0
+Heart Count: 3
+Height: 312.0
+Category: SCOUT
+Chapter: Name: sad
+	     World: das
+
+
+
+]
+2021-05-20 20:51:31,899 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:50869
+2021-05-20 20:51:31,899 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:50869
+[
+print_field_descending_heart_count: print the values of the heartCount field of all elements in descending order.
+remove_greater {element}: remove all items from the collection that exceed the specified value.
+show: output to the standard output stream all elements of the collection in the string representation.
+clear: clear collection.
+save: save collection to file.
+replace_if_lowe null {element}: replace the value by key if the new value is less than the old one.
+update id {element}: update the value of a collection element whose id is equal to the specified one.
+remove_key null: remove an item from the collection by its key.
+help: display help for available commands.
+exit: end the program (without saving to a file).
+remove_lower_key null: remove from the collection all items whose key is less than the specified one.
+execute_script file_name: read and execute the script from the specified file. The script contains commands in the same form as the user enters them interactively..
+average_of_height: output the average value of the height field for all items in the collection.
+group_counting_by_category: group collection items by the value of the category field, output the number of items in each group.
+info: output information about the collection (type, initialization date, number of items, etc.) to the standard output stream.).
+insert null {element}: add a new element with the specified key.
+
+]
+2021-05-20 20:51:36,929 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:50869
+2021-05-20 20:51:36,930 ERROR s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:50869
+[
+The key parameter must be represented by a number!
+]
+2021-05-20 20:53:39,517 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:61908
+2021-05-20 20:53:39,566 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:61908
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 20:53:51,519 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:61913
+2021-05-20 20:53:51,523 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:61913
+[
+Collection loaded successfully! Added 
+Type help to display a list of available commands
+]
+2021-05-20 20:53:55,545 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:61913
+2021-05-20 20:53:55,564 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:61913
+[
+key: 0
+id №1
+Name: asda
+Coordinates: X: 36.3
+			 Y: 56.2
+creationDate: Mon Mar 01 15:12:43 ALMT 2021
+Health: 313.0
+Heart Count: 1
+Height: 2.0
+Category: SCOUT
+Chapter: Name: dasdada
+	     World: sdaasaaaa
+
+
+key: 1
+id №213912
+Name: DamiR
+Coordinates: X: 36.3
+			 Y: 56.2
+creationDate: Tue Feb 23 14:42:44 ALMT 2021
+Health: 5555.2
+Heart Count: 1
+Height: 5321.0
+Category: SCOUT
+Chapter: Name: Attack of the Clones
+	     World: Naboo
+
+
+key: 2
+id №12312
+Name: Apppaaa
+Coordinates: X: 10.4
+			 Y: 10.1
+creationDate: Sat Aug 14 19:23:32 ALMT 2021
+Health: 1999.2
+Heart Count: 3
+Height: 3200.0
+Category: CHAPLAIN
+Chapter: Name: Revenge of the Sith
+	     World: Kashyyyk
+
+
+key: 28083
+id №81966
+Name: ksadm
+Coordinates: X: 12.0
+			 Y: 1.0
+creationDate: Mon Mar 01 15:11:12 ALMT 2021
+Health: 2.0
+Heart Count: 2
+Height: 2.0
+Category: SCOUT
+Chapter: Name: das
+	     World: das
+
+
+key: 39864
+id №11
+Name: NOVIY
+Coordinates: X: 12.0
+			 Y: 1.0
+creationDate: Mon Mar 01 15:16:52 ALMT 2021
+Health: 1.0
+Heart Count: 1
+Height: 1.0
+Category: DREADNOUGHT
+Chapter: Name: dsa
+	     World: das
+
+
+key: 51905
+id №121
+Name: sad
+Coordinates: X: 1.0
+			 Y: 2.0
+creationDate: Mon Mar 01 15:10:48 ALMT 2021
+Health: 2.0
+Heart Count: 3
+Height: 312.0
+Category: SCOUT
+Chapter: Name: sad
+	     World: das
+
+
+
+]
+2021-05-20 21:00:24,399 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56421
+2021-05-20 21:00:24,451 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:56421
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 21:00:40,777 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:56425
+2021-05-20 21:00:40,782 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:56425
+[
+Collection loaded successfully! Added 
+Type help to display a list of available commands
+]
+2021-05-20 21:10:29,112 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:51257
+2021-05-20 21:10:29,165 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:51257
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 21:10:31,092 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:51257
+2021-05-20 21:10:31,110 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:51257
+[
+key: 0
+id №1
+Name: asda
+Coordinates: X: 36.3
+			 Y: 56.2
+creationDate: Mon Mar 01 15:12:43 ALMT 2021
+Health: 313.0
+Heart Count: 1
+Height: 2.0
+Category: SCOUT
+Chapter: Name: dasdada
+	     World: sdaasaaaa
+
+
+key: 1
+id №213912
+Name: DamiR
+Coordinates: X: 36.3
+			 Y: 56.2
+creationDate: Tue Feb 23 14:42:44 ALMT 2021
+Health: 5555.2
+Heart Count: 1
+Height: 5321.0
+Category: SCOUT
+Chapter: Name: Attack of the Clones
+	     World: Naboo
+
+
+key: 2
+id №12312
+Name: Apppaaa
+Coordinates: X: 10.4
+			 Y: 10.1
+creationDate: Sat Aug 14 19:23:32 ALMT 2021
+Health: 1999.2
+Heart Count: 3
+Height: 3200.0
+Category: CHAPLAIN
+Chapter: Name: Revenge of the Sith
+	     World: Kashyyyk
+
+
+key: 28083
+id №81966
+Name: ksadm
+Coordinates: X: 12.0
+			 Y: 1.0
+creationDate: Mon Mar 01 15:11:12 ALMT 2021
+Health: 2.0
+Heart Count: 2
+Height: 2.0
+Category: SCOUT
+Chapter: Name: das
+	     World: das
+
+
+key: 39864
+id №11
+Name: NOVIY
+Coordinates: X: 12.0
+			 Y: 1.0
+creationDate: Mon Mar 01 15:16:52 ALMT 2021
+Health: 1.0
+Heart Count: 1
+Height: 1.0
+Category: DREADNOUGHT
+Chapter: Name: dsa
+	     World: das
+
+
+key: 51905
+id №121
+Name: sad
+Coordinates: X: 1.0
+			 Y: 2.0
+creationDate: Mon Mar 01 15:10:48 ALMT 2021
+Health: 2.0
+Heart Count: 3
+Height: 312.0
+Category: SCOUT
+Chapter: Name: sad
+	     World: das
+
+
+
+]
+2021-05-20 21:12:20,459 INFO s.ServerReceiver [Thread-0] Получен запрос от /127.0.0.1:51281
+2021-05-20 21:12:20,510 INFO s.ServerSender [Thread-0] Отправка ответа клиенту /127.0.0.1:51281
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-20 21:12:28,468 INFO e.ServerReader [main] Завершение работы сервера!

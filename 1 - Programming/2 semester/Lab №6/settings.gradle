@@ -1,0 +1,5 @@
+rootProject.name = 'ballab6gradle'
+include 'client'
+include 'server'
+include 'global'
+

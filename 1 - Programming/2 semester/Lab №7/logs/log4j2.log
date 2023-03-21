@@ -1,0 +1,91 @@
+2021-05-29 21:44:13,893 INFO s.DataBase [main] Подключение к базе данных успешно установлено!
+2021-05-29 21:44:23,540 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:59758
+2021-05-29 21:44:23,581 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:59758
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-29 21:44:31,613 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:59758
+2021-05-29 21:44:31,623 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:59758
+[
+Вы успешно вошли в систему
+]
+2021-05-29 21:44:34,629 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:59758
+2021-05-29 21:44:34,630 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:59758
+[
+print_field_descending_heart_count: вывести значения поля heartCount всех элементов в порядке убывания.
+remove_greater {element}: удалить из коллекции все элементы, превышающие заданный.
+show: вывести в стандартный поток вывода все элементы коллекции в строковом представлении.
+clear: очистить коллекцию.
+save: сохранить коллекцию в файл.
+replace_if_lowe null {element}: заменить значение по ключу, если новое значение меньше старого.
+update id {element}: обновить значение элемента коллекции, id которого равен заданному.
+remove_key null: удалить элемент из коллекции по его ключу.
+help: вывести справку по доступным командам.
+exit: завершить программу (без сохранения в файл).
+remove_lower_key null: удалить из коллекции все элементы, ключ которых меньше, чем заданный.
+execute_script file_name:  считать и исполнить скрипт из указанного файла. В скрипте содержатся команды в таком же виде, в котором их вводит пользователь в интерактивном режиме..
+average_of_height: вывести среднее значение поля height для всех элементов коллекции.
+group_counting_by_category: сгруппировать элементы коллекции по значению поля category, вывести количество элементов в каждой группе.
+info: вывести в стандартный поток вывода информацию о коллекции (тип, дата инициализации, количество элементов и т.д.).
+insert null {element}: добавить новый элемент с заданным ключом.
+
+]
+2021-05-29 21:44:52,200 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:53435
+2021-05-29 21:44:52,203 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:53435
+[
+Collection loaded successfully! Added 
+Type help to display a list of available commands
+]
+2021-05-29 21:45:04,256 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:53435
+2021-05-29 21:45:04,258 ERROR s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:53435
+[
+The password is incorrect
+]
+2021-05-29 21:45:10,301 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:53435
+2021-05-29 21:45:10,303 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:53435
+[
+you are successfully logged in
+]
+2021-05-29 21:45:14,334 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:53435
+2021-05-29 21:45:14,337 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:53435
+[
+print_field_descending_heart_count: print the values of the heartCount field of all elements in descending order.
+remove_greater {element}: remove all items from the collection that exceed the specified value.
+show: output to the standard output stream all elements of the collection in the string representation.
+clear: clear collection.
+save: save collection to file.
+replace_if_lowe null {element}: replace the value by key if the new value is less than the old one.
+update id {element}: update the value of a collection element whose id is equal to the specified one.
+remove_key null: remove an item from the collection by its key.
+help: display help for available commands.
+exit: end the program (without saving to a file).
+remove_lower_key null: remove from the collection all items whose key is less than the specified one.
+execute_script file_name: read and execute the script from the specified file. The script contains commands in the same form as the user enters them interactively..
+average_of_height: output the average value of the height field for all items in the collection.
+group_counting_by_category: group collection items by the value of the category field, output the number of items in each group.
+info: output information about the collection (type, initialization date, number of items, etc.) to the standard output stream.).
+insert null {element}: add a new element with the specified key.
+
+]
+2021-05-29 21:45:19,042 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:59758
+2021-05-29 21:45:19,043 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:59758
+[
+print_field_descending_heart_count: вывести значения поля heartCount всех элементов в порядке убывания.
+remove_greater {element}: удалить из коллекции все элементы, превышающие заданный.
+show: вывести в стандартный поток вывода все элементы коллекции в строковом представлении.
+clear: очистить коллекцию.
+save: сохранить коллекцию в файл.
+replace_if_lowe null {element}: заменить значение по ключу, если новое значение меньше старого.
+update id {element}: обновить значение элемента коллекции, id которого равен заданному.
+remove_key null: удалить элемент из коллекции по его ключу.
+help: вывести справку по доступным командам.
+exit: завершить программу (без сохранения в файл).
+remove_lower_key null: удалить из коллекции все элементы, ключ которых меньше, чем заданный.
+execute_script file_name:  считать и исполнить скрипт из указанного файла. В скрипте содержатся команды в таком же виде, в котором их вводит пользователь в интерактивном режиме..
+average_of_height: вывести среднее значение поля height для всех элементов коллекции.
+group_counting_by_category: сгруппировать элементы коллекции по значению поля category, вывести количество элементов в каждой группе.
+info: вывести в стандартный поток вывода информацию о коллекции (тип, дата инициализации, количество элементов и т.д.).
+insert null {element}: добавить новый элемент с заданным ключом.
+
+]
