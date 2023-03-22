@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="247646e6-75d4-4709-b4b8-b58137be56dc" name="Changes" comment="fixed exceptions and more">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/blps_lab1/BlpsLab1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/blps_lab1/BlpsLab1Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LdoF9uZfgtkXGTr1wImSmfLF8w" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Лабораторные работы/3 курс/BLPS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;5c7037e3b975f8c3f6c8a50ed1781658&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="BlpsLab1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="BLPS_lab1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.blps_lab1.BlpsLab1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="247646e6-75d4-4709-b4b8-b58137be56dc" name="Changes" comment="" />
+      <created>1676210215165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676210215165</updated>
+      <workItem from="1676210216381" duration="580000" />
+      <workItem from="1676210806824" duration="10410000" />
+      <workItem from="1676385630886" duration="599000" />
+      <workItem from="1676459630652" duration="24000" />
+      <workItem from="1676483191524" duration="699000" />
+      <workItem from="1676484223151" duration="798000" />
+      <workItem from="1676485305556" duration="946000" />
+      <workItem from="1676486281384" duration="6522000" />
+      <workItem from="1676565497911" duration="5514000" />
+      <workItem from="1676632540450" duration="1882000" />
+      <workItem from="1676637209267" duration="3268000" />
+      <workItem from="1676659314309" duration="75000" />
+      <workItem from="1676664784176" duration="886000" />
+      <workItem from="1676665758656" duration="1904000" />
+      <workItem from="1676713376247" duration="431000" />
+      <workItem from="1676713819219" duration="8696000" />
+      <workItem from="1676829446253" duration="8045000" />
+      <workItem from="1676895953737" duration="2775000" />
+      <workItem from="1676973164453" duration="6293000" />
+      <workItem from="1676983212525" duration="14533000" />
+      <workItem from="1677068865233" duration="2844000" />
+      <workItem from="1677077692470" duration="3460000" />
+      <workItem from="1677340843464" duration="334000" />
+      <workItem from="1677436345270" duration="7000" />
+      <workItem from="1677865921269" duration="12723000" />
+      <workItem from="1677928252808" duration="4370000" />
+      <workItem from="1678278883458" duration="7500000" />
+      <workItem from="1678304092474" duration="4929000" />
+      <workItem from="1678363330976" duration="91000" />
+      <workItem from="1678628382677" duration="4411000" />
+      <workItem from="1678658395434" duration="7000" />
+      <workItem from="1678720038609" duration="370000" />
+      <workItem from="1679345623142" duration="6538000" />
+      <workItem from="1679397095615" duration="7000" />
+      <workItem from="1679438638392" duration="645000" />
+    </task>
+    <task id="LOCAL-00001" summary="added Spring Security and JWT">
+      <created>1676228798952</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676228798952</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Auth Controller/Service">
+      <created>1676492603742</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676492603742</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added Auth Controller/Service">
+      <created>1676568295397</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676568295397</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added RecipeIngredients.java">
+      <created>1676569534260</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676569534260</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added addRecipe method + renaming">
+      <created>1676655797841</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676655797841</updated>
+    </task>
+    <task id="LOCAL-00006" summary="addRecipe fixed">
+      <created>1676665988091</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676665988091</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added url permission for addRecipe() method">
+      <created>1676667034533</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676667034533</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added delete_recipe() and update_recipe() methods">
+      <created>1676718868459</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676718868459</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added getAll() method">
+      <created>1676838128846</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676838128846</updated>
+    </task>
+    <task id="LOCAL-00010" summary="last commit (probably)">
+      <created>1676978911146</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676978911146</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added @Valid annotation on methods args">
+      <created>1676988170135</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676988170135</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added @Valid annotation on methods args in AdminController">
+      <created>1676993425917</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676993425917</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added @Valid annotation on methods args in AdminController">
+      <created>1677001311969</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1677001311969</updated>
+    </task>
+    <task id="LOCAL-00014" summary="removed ErrorHandlingController">
+      <created>1677869662404</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1677869662404</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fixed Rest + pagination">
+      <created>1677879186120</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1677879186120</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added @Secured in RecipeController">
+      <created>1677928452756</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1677928452756</updated>
+    </task>
+    <task id="LOCAL-00017" summary="fixed WebSecurityConfig">
+      <created>1677931866797</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1677931866797</updated>
+    </task>
+    <task id="LOCAL-00018" summary="fixed exceptions and more">
+      <created>1679352147334</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1679352147334</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added Spring Security and JWT" />
+    <MESSAGE value="Added Auth Controller/Service" />
+    <MESSAGE value="Added RecipeIngredients.java" />
+    <MESSAGE value="Added addRecipe method + renaming" />
+    <MESSAGE value="addRecipe fixed" />
+    <MESSAGE value="added url permission for addRecipe() method" />
+    <MESSAGE value="added delete_recipe() and update_recipe() methods" />
+    <MESSAGE value="added getAll() method" />
+    <MESSAGE value="last commit (probably)" />
+    <MESSAGE value="added @Valid annotation on methods args" />
+    <MESSAGE value="added @Valid annotation on methods args in AdminController" />
+    <MESSAGE value="removed ErrorHandlingController" />
+    <MESSAGE value="fixed Rest + pagination" />
+    <MESSAGE value="added @Secured in RecipeController" />
+    <MESSAGE value="fixed WebSecurityConfig" />
+    <MESSAGE value="fixed exceptions and more" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed exceptions and more" />
+  </component>
+</project>
