@@ -1,0 +1,38 @@
+[
+    {
+        "address": 0,
+        "opcode": "JMP",
+        "args": [
+            0
+        ]
+    },
+    {
+        "address": 1,
+        "opcode": "INTER_START",
+        "args": []
+    },
+    {
+        "address": 2,
+        "opcode": "READ",
+        "args": [
+            0
+        ]
+    },
+    {
+        "address": 3,
+        "opcode": "PRINT_CH",
+        "args": [
+            0
+        ]
+    },
+    {
+        "address": 4,
+        "opcode": "INTER_END",
+        "args": []
+    },
+    {
+        "address": 5,
+        "opcode": "HALT",
+        "args": []
+    }
+]

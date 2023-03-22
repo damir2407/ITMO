@@ -1,0 +1,17 @@
+section .data:
+    current 0
+    sum 0
+
+section .text:
+    .start:
+        add current 1
+        cmp 15 current
+        jb .hlt
+        mod current 7
+        je .start
+        add sum current
+        jmp .start
+    .hlt:
+        print sum
+        halt
+

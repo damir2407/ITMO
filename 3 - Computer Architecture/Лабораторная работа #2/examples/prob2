@@ -1,0 +1,21 @@
+section .data:
+	first 1
+	second 2
+	current 3
+	sum 2
+
+section .text:
+    .start:
+		cmp 4000000 current
+		jb .hlt
+		mov current second
+		add current first
+        mov first second
+        mov second current
+        mod current 2
+		jnz .start
+		add sum current
+		jmp .start
+	.hlt:
+		print sum
+		halt

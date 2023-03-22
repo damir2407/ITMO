@@ -1,0 +1,91 @@
+[
+    {
+        "address": 0,
+        "opcode": "CMP",
+        "args": [
+            4,
+            2
+        ]
+    },
+    {
+        "address": 1,
+        "opcode": "JB",
+        "args": [
+            10
+        ]
+    },
+    {
+        "address": 2,
+        "opcode": "MOV",
+        "args": [
+            2,
+            1
+        ]
+    },
+    {
+        "address": 3,
+        "opcode": "ADD",
+        "args": [
+            2,
+            0
+        ]
+    },
+    {
+        "address": 4,
+        "opcode": "MOV",
+        "args": [
+            0,
+            1
+        ]
+    },
+    {
+        "address": 5,
+        "opcode": "MOV",
+        "args": [
+            1,
+            2
+        ]
+    },
+    {
+        "address": 6,
+        "opcode": "MOD",
+        "args": [
+            2,
+            5
+        ]
+    },
+    {
+        "address": 7,
+        "opcode": "JNZ",
+        "args": [
+            0
+        ]
+    },
+    {
+        "address": 8,
+        "opcode": "ADD",
+        "args": [
+            3,
+            2
+        ]
+    },
+    {
+        "address": 9,
+        "opcode": "JMP",
+        "args": [
+            0
+        ]
+    },
+    {
+        "address": 10,
+        "opcode": "PRINT",
+        "args": [
+            3
+        ]
+    },
+    {
+        "address": 11,
+        "opcode": "HALT",
+        "args": []
+    }
+]

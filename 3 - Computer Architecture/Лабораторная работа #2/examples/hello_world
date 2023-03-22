@@ -1,0 +1,16 @@
+section .data:
+    (hw) Hello world!
+    hw_start 0
+    hw_char 0
+
+section .text:
+    mov hw_start (hw)
+    .start:
+        ld* hw_start
+        sv hw_char
+        cmp hw_char 0
+        je .hlt
+        print_ch# hw_start
+        jmp .start
+    .hlt:
+        halt

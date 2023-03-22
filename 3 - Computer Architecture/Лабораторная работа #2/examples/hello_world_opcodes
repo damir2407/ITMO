@@ -1,0 +1,58 @@
+[
+    {
+        "address": 0,
+        "opcode": "MOV",
+        "args": [
+            14,
+            13
+        ]
+    },
+    {
+        "address": 1,
+        "opcode": "LD*",
+        "args": [
+            14
+        ]
+    },
+    {
+        "address": 2,
+        "opcode": "SV",
+        "args": [
+            15
+        ]
+    },
+    {
+        "address": 3,
+        "opcode": "CMP",
+        "args": [
+            15,
+            16
+        ]
+    },
+    {
+        "address": 4,
+        "opcode": "JE",
+        "args": [
+            7
+        ]
+    },
+    {
+        "address": 5,
+        "opcode": "PRINT_CH#",
+        "args": [
+            14
+        ]
+    },
+    {
+        "address": 6,
+        "opcode": "JMP",
+        "args": [
+            1
+        ]
+    },
+    {
+        "address": 7,
+        "opcode": "HALT",
+        "args": []
+    }
+]

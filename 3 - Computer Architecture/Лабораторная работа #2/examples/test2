@@ -1,0 +1,24 @@
+section .data:
+    max_chet 0
+    max_ne_chet 0
+    current 0
+    razn 0
+
+section .text:
+    .start:
+        add current 1
+        cmp 15 current
+        jb .hlt
+        mod current 2
+        je .max_chet_swap
+        mov max_ne_chet current
+        jmp .start
+    .max_chet_swap:
+        mov max_chet current
+        jmp .start
+    .hlt:
+        cmp max_chet max_ne_chet
+        sv razn
+        print razn
+        halt
+

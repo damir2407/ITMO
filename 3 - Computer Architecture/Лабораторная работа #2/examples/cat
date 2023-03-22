@@ -1,0 +1,10 @@
+section .text:
+	.start:
+        jmp .start
+    .interrupt:
+        inter_start
+        read
+        print_ch
+        inter_end
+	.hlt:
+		halt

@@ -1,0 +1,97 @@
+[
+    {
+        "address": 0,
+        "opcode": "ADD",
+        "args": [
+            2,
+            4
+        ]
+    },
+    {
+        "address": 1,
+        "opcode": "CMP",
+        "args": [
+            5,
+            2
+        ]
+    },
+    {
+        "address": 2,
+        "opcode": "JB",
+        "args": [
+            9
+        ]
+    },
+    {
+        "address": 3,
+        "opcode": "MOD",
+        "args": [
+            2,
+            6
+        ]
+    },
+    {
+        "address": 4,
+        "opcode": "JE",
+        "args": [
+            7
+        ]
+    },
+    {
+        "address": 5,
+        "opcode": "MOV",
+        "args": [
+            1,
+            2
+        ]
+    },
+    {
+        "address": 6,
+        "opcode": "JMP",
+        "args": [
+            0
+        ]
+    },
+    {
+        "address": 7,
+        "opcode": "MOV",
+        "args": [
+            0,
+            2
+        ]
+    },
+    {
+        "address": 8,
+        "opcode": "JMP",
+        "args": [
+            0
+        ]
+    },
+    {
+        "address": 9,
+        "opcode": "CMP",
+        "args": [
+            0,
+            1
+        ]
+    },
+    {
+        "address": 10,
+        "opcode": "SV",
+        "args": [
+            3
+        ]
+    },
+    {
+        "address": 11,
+        "opcode": "PRINT",
+        "args": [
+            3
+        ]
+    },
+    {
+        "address": 12,
+        "opcode": "HALT",
+        "args": []
+    }
+]

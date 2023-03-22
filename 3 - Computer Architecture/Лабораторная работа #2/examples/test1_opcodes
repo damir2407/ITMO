@@ -1,0 +1,67 @@
+[
+    {
+        "address": 0,
+        "opcode": "ADD",
+        "args": [
+            0,
+            2
+        ]
+    },
+    {
+        "address": 1,
+        "opcode": "CMP",
+        "args": [
+            3,
+            0
+        ]
+    },
+    {
+        "address": 2,
+        "opcode": "JB",
+        "args": [
+            7
+        ]
+    },
+    {
+        "address": 3,
+        "opcode": "MOD",
+        "args": [
+            0,
+            4
+        ]
+    },
+    {
+        "address": 4,
+        "opcode": "JE",
+        "args": [
+            0
+        ]
+    },
+    {
+        "address": 5,
+        "opcode": "ADD",
+        "args": [
+            1,
+            0
+        ]
+    },
+    {
+        "address": 6,
+        "opcode": "JMP",
+        "args": [
+            0
+        ]
+    },
+    {
+        "address": 7,
+        "opcode": "PRINT",
+        "args": [
+            1
+        ]
+    },
+    {
+        "address": 8,
+        "opcode": "HALT",
+        "args": []
+    }
+]
