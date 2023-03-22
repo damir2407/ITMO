@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca3e70bd-5a81-4b12-8d5e-3ef45d4095af" name="Changes" comment="added null test">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TPO_lab1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TPO_lab1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MHtGautW8IwIoM8WXK00A7jbvI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.DomainModelTest">
+    <configuration name="ArcSinCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TPO_lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.task1" />
+      <option name="MAIN_CLASS_NAME" value="test.java.task1.ArcSinCalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArcSinCalculatorTest.checkNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TPO_lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.task1" />
+      <option name="MAIN_CLASS_NAME" value="test.java.task1.ArcSinCalculatorTest" />
+      <option name="METHOD_NAME" value="checkNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArcSinCalculatorTest.onePositiveNegativeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TPO_lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.task1" />
+      <option name="MAIN_CLASS_NAME" value="test.java.task1.ArcSinCalculatorTest" />
+      <option name="METHOD_NAME" value="onePositiveNegativeTest(double)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArcSinCalculatorTest.zeroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TPO_lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.task1" />
+      <option name="MAIN_CLASS_NAME" value="test.java.task1.ArcSinCalculatorTest" />
+      <option name="METHOD_NAME" value="zeroTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DomainModelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TPO_lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.task3" />
+      <option name="MAIN_CLASS_NAME" value="test.java.task3.DomainModelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DomainModelTest" />
+        <item itemvalue="JUnit.ArcSinCalculatorTest" />
+        <item itemvalue="JUnit.ArcSinCalculatorTest.checkNull" />
+        <item itemvalue="JUnit.ArcSinCalculatorTest.zeroTest" />
+        <item itemvalue="JUnit.ArcSinCalculatorTest.onePositiveNegativeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca3e70bd-5a81-4b12-8d5e-3ef45d4095af" name="Changes" comment="" />
+      <created>1677436240512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677436240512</updated>
+      <workItem from="1677436241595" duration="100000" />
+      <workItem from="1677436353503" duration="74000" />
+      <workItem from="1677436436992" duration="5071000" />
+      <workItem from="1677445168094" duration="11000" />
+      <workItem from="1677525266176" duration="3548000" />
+      <workItem from="1677528895404" duration="4000" />
+      <workItem from="1677587177819" duration="9231000" />
+      <workItem from="1677624220091" duration="132000" />
+      <workItem from="1677661568231" duration="863000" />
+      <workItem from="1677672354993" duration="381000" />
+      <workItem from="1677675501627" duration="4000" />
+      <workItem from="1677693585975" duration="84000" />
+      <workItem from="1677694861974" duration="147000" />
+      <workItem from="1678102656184" duration="20268000" />
+      <workItem from="1678140150216" duration="334000" />
+      <workItem from="1678196867228" duration="751000" />
+      <workItem from="1678200374425" duration="77000" />
+      <workItem from="1678200854387" duration="2005000" />
+      <workItem from="1678214207830" duration="9000" />
+      <workItem from="1678977206952" duration="808000" />
+    </task>
+    <task id="LOCAL-00001" summary="added arcsin function + test's">
+      <created>1677528612032</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677528612032</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added classes from lab4">
+      <created>1677589068857</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677589068857</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added tests for task 3">
+      <created>1677596816650</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677596816651</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added tests for task 3">
+      <created>1677672584157</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677672584157</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new tests + fixed previous">
+      <created>1678139394705</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678139394705</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fixed zeroTest">
+      <created>1678140233087</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678140233087</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added null test">
+      <created>1678201453001</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678201453001</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added arcsin function + test's" />
+    <MESSAGE value="added classes from lab4" />
+    <MESSAGE value="added tests for task 3" />
+    <MESSAGE value="new tests + fixed previous" />
+    <MESSAGE value="fixed zeroTest" />
+    <MESSAGE value="added null test" />
+    <option name="LAST_COMMIT_MESSAGE" value="added null test" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lab1$DomainModelTest.ic" NAME="DomainModelTest Coverage Results" MODIFIED="1678203249541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.java.task3.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab1$ArcSinCalculatorTest_checkNull.ic" NAME="ArcSinCalculatorTest.checkNull Coverage Results" MODIFIED="1678203207344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.java.task1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab1$ArcSinCalculatorTest.ic" NAME="ArcSinCalculatorTest Coverage Results" MODIFIED="1678203225798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.java.task1.*</FILTER>
+    </SUITE>
+  </component>
+</project>
